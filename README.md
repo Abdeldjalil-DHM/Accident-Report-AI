@@ -8,12 +8,6 @@ AI-powered tool for insurance accident reports that:
 
 ---
 
-## 📸 Demo Screenshot  
-
-![Accident Report Demo](Demo_image/image_2025-09-22_15-06-50.png)
-
----
-
 ## ⚙️ Features  
 
 - **PDF Text Extraction** → Extract structured accident report data.  
