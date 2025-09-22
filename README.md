@@ -46,13 +46,13 @@ pip install -r requirements.txt
 
 ```
 ▶️ Usage 
-# Run the main script
-python app.py
+
 Upload your accident report PDF.
 
 Upload vehicle damage images.
 
 Get a final matching score + AI-generated comment
+
 📄 License
 
 This project is licensed under the MIT License – free to use and modify.
