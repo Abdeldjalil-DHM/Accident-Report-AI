@@ -45,26 +45,38 @@ cd Accident-Report-AI
 pip install -r requirements.txt
 
 ```
-▶️ Usage 
+# Accident-Report-AI
 
-Upload your accident report PDF.
+AI-powered tool for insurance accident reports.  
+It extracts text from PDFs, detects vehicle damages in images, and compares them with multi-language support.  
 
-Upload vehicle damage images.
+---
 
-Get a final matching score + AI-generated comment
+## 🚀 Demo Screenshot  
 
-📄 License
+Here’s an example of the system detecting damages:  
 
-This project is licensed under the MIT License – free to use and modify.
+![Demo](./image_2025-09-22_15-06-50.png)
 
-🤝 Contribution
 
-Pull requests are welcome! For major changes, please open an issue first to discuss.
+---
 
-🌍 About
+## ⚙️ How to Use
+1. Upload the accident PDF report.  
+2. Upload vehicle images.  
+3. The system detects damages and compares with PDF descriptions.  
+4. Get a **final percentage match** + comment about the consistency.  
 
-This project is designed for insurance accident report automation.
-It was initially developed during a hackathon project and continues to evolve with new AI-powered features.
+---
 
+## 📌 Future Work
+- Web interface for uploading PDFs & images  
+- API integration with insurance platforms  
+- More damage categories for detection  
+
+---
+
+## 📄 License
+This project is released under the **MIT License**.  
 
 
