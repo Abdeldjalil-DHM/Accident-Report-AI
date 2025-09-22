@@ -35,5 +35,20 @@ AI-powered tool for insurance accident reports that:
 
 ## 📂 Project Structure  
 
+---
+
+## 🛠️ Installation  
+
+```bash
+# Clone the repository
+git clone https://github.com/YourUsername/Accident-Report-AI.git
+
+# Navigate to project folder
+cd Accident-Report-AI
+
+# Install dependencies
+pip install -r requirements.txt
+
+
 
 
