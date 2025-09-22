@@ -45,20 +45,6 @@ cd Accident-Report-AI
 pip install -r requirements.txt
 
 ```
-# Accident-Report-AI
-
-AI-powered tool for insurance accident reports.  
-It extracts text from PDFs, detects vehicle damages in images, and compares them with multi-language support.  
-
----
-
-## 🚀 Demo Screenshot  
-
-Here’s an example of the system detecting damages:  
-
-![Demo](./image_2025-09-22_15-06-50.png)
-
-
 ---
 
 ## ⚙️ How to Use
