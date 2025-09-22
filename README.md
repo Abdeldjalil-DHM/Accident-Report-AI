@@ -30,11 +30,6 @@ AI-powered tool for insurance accident reports that:
 - **OpenCV** & **Pillow** for image processing  
 - **pdfplumber** for PDF parsing  
 - **Deep-Translator** for multi-language support  
-
----
-
-## 📂 Project Structure  
-
 ---
 
 ## 🛠️ Installation  
@@ -49,6 +44,27 @@ cd Accident-Report-AI
 # Install dependencies
 pip install -r requirements.txt
 
+```
+▶️ Usage 
+# Run the main script
+python app.py
+Upload your accident report PDF.
+
+Upload vehicle damage images.
+
+Get a final matching score + AI-generated comment
+📄 License
+
+This project is licensed under the MIT License – free to use and modify.
+
+🤝 Contribution
+
+Pull requests are welcome! For major changes, please open an issue first to discuss.
+
+🌍 About
+
+This project is designed for insurance accident report automation.
+It was initially developed during a hackathon project and continues to evolve with new AI-powered features.
 
 
 
