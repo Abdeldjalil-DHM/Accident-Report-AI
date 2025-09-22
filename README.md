@@ -10,7 +10,7 @@ AI-powered tool for insurance accident reports that:
 
 ## 📸 Demo Screenshot  
 
-![Accident Report Demo](./image_2025-09-22_15-06-50.png)  
+![Accident Report Demo](Demo image/image_2025-09-22_15-06-50.png)  
 
 ---
 
