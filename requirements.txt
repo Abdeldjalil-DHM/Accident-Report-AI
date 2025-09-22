@@ -1,0 +1,6 @@
+ultralytics
+deep-translator
+pdfplumber
+pillow
+matplotlib
+opencv-python-headless
