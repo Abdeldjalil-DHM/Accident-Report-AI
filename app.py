@@ -14,7 +14,7 @@ from google.colab import files
 # ==========================
 # 2) Load YOLO model
 # ==========================
-MODEL_PATH = "trained.pt"  # حط الموديل هنا في نفس المشروع
+MODEL_PATH = "trained.pt" 
 if not os.path.exists(MODEL_PATH):
     raise SystemExit("❌ Model not found. Upload trained.pt to the project folder.")
 
